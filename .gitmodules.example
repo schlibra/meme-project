@@ -1,0 +1,9 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/schlibra/meme-frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/schlibra/meme-backend.git
+[submodule "utilities"]
+	path = utilities
+	url = https://github.com/schlibra/meme-utilities.git
